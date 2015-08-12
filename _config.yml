@@ -1,0 +1,10 @@
+# Site settings
+title: DVD
+email: david_dc87@yahoo.com
+description: This is the personal site of David De Castro. Coded with Jekyll and hosted by Github.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+github_username:  daviddc87
+
+# Build settings
+markdown: kramdown
